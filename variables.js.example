@@ -1,0 +1,2 @@
+// ↓ここにコピーしたDiscordのWebhook URLを貼り付けてください
+const DISCORD_WEBHOOK_URL = "";
