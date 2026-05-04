@@ -1,5 +1,5 @@
 {
-  "scriptId": "", // ここにGASプロジェクトのIDを入れます
+  "scriptId": "",
   "rootDir": "",
   "scriptExtensions": [".js", ".gs"],
   "htmlExtensions": [".html"],
